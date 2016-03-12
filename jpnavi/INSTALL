@@ -7,11 +7,21 @@ RackTablesの画面で使われている文字を一部日本語化するエク�
 
 1. plugins/extensions ディレクトリに navigation.php をコピーします。
    （例として、jpvaviディレクトリを作成しその中に保存します）
+   
+   フォルダ・ファイルの構成
+   + wwwroot
+     index.php
+   + plugins
+     + extension.php
+     + extensions
+       + jpnavi
+         + navigation.php
 
 2. plugins/extension.php ファイルに下の行を追加します。
 
 # Japanese Navigation
 require_once "../plugins/extensions/jpnavi/navigation.php";
+
 
 
 アンインストール方法（インストールを逆順に行います）
