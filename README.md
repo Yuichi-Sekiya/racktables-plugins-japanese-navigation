@@ -9,4 +9,4 @@ RackTablesの画面で使われている文字を一部日本語化するエク�
 
 アンインストール方法
 
-1.plugins/jp_navigation.php ファイルを削除します。
+1. plugins/jp_navigation.php ファイルを削除します。
