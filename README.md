@@ -1,6 +1,6 @@
-# racktables-extensions-japanese-navigation
+# racktables-plugins-japanese-navigation
 
-RackTablesの画面で使われている文字を一部日本語化するエクステンションです。
+RackTablesの画面で使われている文字を一部日本語化するプラグインです。
 変数を上書きしているだけですので、タイトルやタブの文字にしか対応できません。
 
 画面イメージ
