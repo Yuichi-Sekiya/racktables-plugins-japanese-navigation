@@ -9,11 +9,11 @@ RackTablesの画面で使われている文字を一部日本語化するプラ�
 
 <h2>インストール方法</h2>
 
-1. plugins ディレクトリに jp_navigation.php をコピーします。
+ plugins ディレクトリに jp_navigation.php をコピーします。
 
 <h2>アンインストール方法</h2>
 
-1. plugins/jp_navigation.php ファイルを削除します。
+ plugins/jp_navigation.php ファイルを削除します。
 
 
 
