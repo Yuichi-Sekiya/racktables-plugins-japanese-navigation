@@ -4,7 +4,7 @@ RackTablesの画面で使われている文字を一部日本語化するプラ�
 変数を上書きしているだけですので、タイトルやタブの文字にしか対応できません。
 
 画面イメージ
-<img src="https://github.com/hipontire/racktables-extensions-japanese-navigation/blob/jpnavi/navigation.php/snapshot.png">
+<a href="https://raw.githubusercontent.com/hipontire/racktables-plugins-japanese-navigation/jpnavi/navigation.php/snapshot.png"><img src="https://raw.githubusercontent.com/hipontire/racktables-plugins-japanese-navigation/jpnavi/navigation.php/snapshot.png" width="598" height="457"></a>
 
 <hr />
 インストール方法
